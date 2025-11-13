@@ -16,5 +16,5 @@ else :
       print("parallelism dot product= ",p)
 
    	
-   	
+  #hi bro 	
 
